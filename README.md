@@ -1,1 +1,1 @@
-# minimalist
+# personal
